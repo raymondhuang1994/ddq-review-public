@@ -1,0 +1,4 @@
+interface:
+  display_name: "DDQ 与 White Paper 审阅"
+  short_description: "按指定依据最小修订，确认后交付净稿、批注稿与详细审阅稿"
+  default_prompt: "请用 $ddq-review 审阅我提供的 draft 和参考材料，先确认需求与依据范围，再提交具体修改清单，待我确认后生成三份文件。"

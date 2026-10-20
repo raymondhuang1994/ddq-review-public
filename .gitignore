@@ -1,0 +1,13 @@
+# Only these reusable skill files belong in this repository.
+# Keep task materials and generated documents in a separate directory.
+/*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/agents/
+!/references/
+/agents/*
+!/agents/openai.yaml
+/references/*
+!/references/review-method.md
+!/references/deliverables.md
